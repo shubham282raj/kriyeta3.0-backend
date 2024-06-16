@@ -4,4 +4,4 @@ transformers
 numpy
 scipy
 gunicorn
-pytorch
+torch
